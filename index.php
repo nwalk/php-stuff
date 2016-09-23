@@ -16,10 +16,7 @@
 <body>
 <div class="container">
     <div class="col-md-12 column" style="padding-top: 60px"></div>
-	<h4><?php 
-		$name = "Nathan Walker";
-		echo "My name is " . $name . "!";
-	    ?>
+	<h4>
 	</h4>
 <p>
 <?php
