@@ -42,6 +42,7 @@
         echo "The condition is false";
     }
 //WHILE LOOP
+    $loop = 1;
     while ($loop < 5) {
         $loop++;
         echo "<p>'while' Loop number {$loop}.</p>";
