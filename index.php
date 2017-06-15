@@ -36,6 +36,15 @@
 </div>
 
 <?php
+// CONCATENATION OPERATOR == (.)
+	echo "PHP"." seems"." pretty COOL!";
+// OUTPUT SOME MATH
+	echo 17 * 123;
+// DEFINE VAR AND RETURN STRING
+	$myName = "Jen Garland";
+	echo $myName;
+// OPPERATORS GO AS: <, >, <=, >=, ==, and !=
+
 //FOR LOOP
     for ($i=10; $i < 101; $i = $i + 10){
         echo $i . " ";
